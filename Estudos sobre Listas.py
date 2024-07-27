@@ -90,8 +90,4 @@ quinto_número_primo = números_primos.pop(4)
 print(quinto_número_primo) # Saída: 13
 print(números_primos) # Saída: [3, 5, 7, 11, 17, 19, 23, 29, 31, 37]
 
-
-
-
-
-
+print("hello world")
